@@ -1,6 +1,6 @@
 {
 	"friendly_name": "scopehal-apps",
-	"image_src": "blob:https://josephreed2600.github.io/c13ddae1-8830-40bf-bc9c-bd4c462ee212",
+	"image_src": "https://i.imgur.com/sp6eWuF.png",
 	"description": "https://github.com/glscopeclient",
 	"name": "jtreed/scopehal-apps:kasm",
 	"cores": 4,
